@@ -753,3 +753,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 20:37:21.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3019, y=77, z=3771}
 [13Mar2025 20:37:38.163] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
 [13Mar2025 20:38:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 20:42:16.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[13Mar2025 20:43:00.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3275, y=70, z=4277} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Mar2025 20:43:00.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3275, y=70, z=4277}
+[13Mar2025 20:43:04.631] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3563, y=70, z=4326} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[13Mar2025 20:43:04.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-3563, y=70, z=4326}
+[13Mar2025 20:43:04.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3563, y=69, z=4326} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Mar2025 20:43:04.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-3563, y=69, z=4326}
+[13Mar2025 20:43:04.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3563, y=70, z=4325} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[13Mar2025 20:43:04.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3563, y=70, z=4325}
+[13Mar2025 20:43:33.783] [Worker-Main-4/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Mar2025 20:43:46.414] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3829, y=27, z=4255}
+[13Mar2025 20:44:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 20:45:25.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25b60f29
+[13Mar2025 20:45:25.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iAmCamiii_[/127.60.239.121:58151] logged in with entity id 31522 at (-2744.300000011921, 63.0, 3176.300000011921)
+[13Mar2025 20:45:25.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to iAmCamiii_
+[13Mar2025 20:45:25.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to iAmCamiii_
+[13Mar2025 20:45:25.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to iAmCamiii_
+[13Mar2025 20:45:25.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to iAmCamiii_
+[13Mar2025 20:45:25.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to iAmCamiii_
+[13Mar2025 20:45:25.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to iAmCamiii_
+[13Mar2025 20:45:25.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to iAmCamiii_
+[13Mar2025 20:45:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iAmCamiii_ joined the game
+[13Mar2025 20:45:53.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> ni se les ocurra usar texture packs aca
+[13Mar2025 20:46:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> porque mi pc exploto xd
+[13Mar2025 20:46:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:47:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:48:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]

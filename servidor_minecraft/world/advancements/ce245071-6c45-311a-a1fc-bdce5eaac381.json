@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:48:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 01:13:06 +0000"
@@ -537,6 +543,12 @@
   "tropicraft:recipes/tropicraft/eudialyte_axe": {
     "criteria": {
       "has_bamboo": "2025-03-13 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:48:02 +0000"
     },
     "done": true
   },
@@ -3023,6 +3035,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2025-03-13 20:48:02 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/raw_magnetite_nugget": {
     "criteria": {
       "has_item": "2025-03-12 06:20:48 +0000"
@@ -4957,6 +4975,12 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-03-12 06:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:48:02 +0000"
     },
     "done": true
   },

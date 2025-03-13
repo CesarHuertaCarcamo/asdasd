@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-03-12 06:26:46 +0000"
@@ -398,6 +404,12 @@
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
@@ -686,6 +698,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-03-13 00:31:24 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_milk_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
@@ -2116,6 +2134,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2025-03-13 20:14:09 +0000"
@@ -2360,9 +2384,11 @@
     "criteria": {
       "byg:allium_fields": "2025-03-12 06:18:30 +0000",
       "byg:prairie": "2025-03-12 06:12:03 +0000",
+      "byg:rainbow_beach": "2025-03-13 20:48:00 +0000",
       "byg:redwood_thicket": "2025-03-13 20:21:11 +0000",
       "byg:fragment_forest": "2025-03-12 06:41:11 +0000",
       "byg:firecracker_shrubland": "2025-03-13 20:19:34 +0000",
+      "byg:araucaria_savanna": "2025-03-13 20:44:30 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:46 +0000",
       "byg:baobab_savanna": "2025-03-13 20:17:36 +0000",
       "byg:amaranth_fields": "2025-03-12 06:43:38 +0000"
@@ -2578,6 +2604,12 @@
     "criteria": {
       "has_bucket": "2025-03-12 05:38:15 +0000",
       "has_flint": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
@@ -3051,6 +3083,7 @@
       "coniferous_forest": "2025-03-12 05:39:28 +0000",
       "wasteland": "2025-03-12 06:50:53 +0000",
       "lush_desert": "2025-03-12 07:00:34 +0000",
+      "lavender_field": "2025-03-13 20:38:16 +0000",
       "grassland": "2025-03-12 05:59:37 +0000",
       "snowy_maple_woods": "2025-03-12 05:55:58 +0000"
     },
@@ -3065,6 +3098,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-03-13 00:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
@@ -3679,6 +3718,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2025-03-13 00:44:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
@@ -4660,6 +4705,13 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella": {
+    "criteria": {
+      "has_the_recipe": "2025-03-13 20:47:28 +0000",
+      "has_water_bucket": "2025-03-13 20:47:28 +0000"
     },
     "done": true
   },
