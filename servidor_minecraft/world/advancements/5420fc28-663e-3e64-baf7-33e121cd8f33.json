@@ -902,6 +902,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/glow_ink_sac": {
+    "criteria": {
+      "has_item": "2025-03-13 00:53:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2025-03-12 06:26:46 +0000"
@@ -1026,6 +1032,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-13 00:53:19 +0000"
     },
     "done": true
   },
@@ -5088,6 +5100,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 00:53:19 +0000"
     },
     "done": true
   },

@@ -781,15 +781,15 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-03-13 00:39:19 +0000"
-    },
-    "done": true
-  },
   "candlelight:recipes/sandstone_kitchen_sink": {
     "criteria": {
       "has_sandstone": "2025-03-13 00:36:36 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-03-13 00:39:19 +0000"
     },
     "done": true
   },
@@ -2620,6 +2620,7 @@
       "cooked_beef": "2025-03-12 06:06:38 +0000",
       "beef": "2025-03-12 05:58:02 +0000",
       "porkchop": "2025-03-12 05:58:26 +0000",
+      "cooked_cod": "2025-03-13 00:55:35 +0000",
       "mutton": "2025-03-12 06:00:32 +0000",
       "bread": "2025-03-12 06:07:04 +0000",
       "cod": "2025-03-12 07:02:53 +0000",
@@ -4431,6 +4432,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/black_cod": {
+    "criteria": {
+      "has_cod": "2025-03-13 00:54:11 +0000"
     },
     "done": true
   },

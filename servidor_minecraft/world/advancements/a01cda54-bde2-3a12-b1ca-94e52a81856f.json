@@ -1661,15 +1661,15 @@
     },
     "done": true
   },
-  "bakery:recipes/bread_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-03-13 00:43:37 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-13 00:15:02 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-13 00:43:37 +0000"
     },
     "done": true
   },
