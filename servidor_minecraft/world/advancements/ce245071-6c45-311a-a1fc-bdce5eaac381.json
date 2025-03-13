@@ -167,9 +167,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-03-12 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-13 20:30:17 +0000"
     },
     "done": true
   },
@@ -558,6 +570,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-03-12 07:02:10 +0000"
@@ -777,6 +795,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/patched_bed": {
     "criteria": {
       "has_planks": "2025-03-12 05:52:27 +0000"
@@ -936,6 +960,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-12 05:54:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -1187,9 +1217,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -1274,6 +1316,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/ambrosia": {
+    "criteria": {
+      "has_apple": "2025-03-13 20:30:17 +0000"
     },
     "done": true
   },
@@ -1388,6 +1436,12 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-03-13 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -1913,6 +1967,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-12 06:01:22 +0000"
@@ -2105,6 +2165,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-03-12 06:47:32 +0000"
@@ -2291,6 +2357,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 20:29:57 +0000"
     },
     "done": true
   },
@@ -3030,6 +3102,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
@@ -3075,6 +3153,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-13 20:30:17 +0000"
     },
     "done": true
   },
@@ -3511,6 +3595,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/tangle_roots": {
+    "criteria": {
+      "has_item": "2025-03-13 20:33:16 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/grongle_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:10 +0000"
@@ -3577,6 +3667,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/apple_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-12 05:54:39 +0000"
@@ -3586,6 +3682,12 @@
   "candlelight:recipes/mangrove_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -3604,6 +3706,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-12 07:00:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -3654,6 +3762,12 @@
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -3799,6 +3913,12 @@
   "exoticbirds:recipes/white_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:52:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -4093,6 +4213,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 20:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-13 00:36:32 +0000"
@@ -4168,6 +4294,12 @@
   "another_furniture:recipes/oak_bench": {
     "criteria": {
       "has_slab": "2025-03-12 06:28:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -4390,6 +4522,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-12 06:10:38 +0000"
@@ -4528,6 +4666,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2025-03-13 00:44:46 +0000"
@@ -4615,6 +4759,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-12 06:10:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
     },
     "done": true
   },
@@ -4876,6 +5026,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-13 20:27:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-03-12 05:29:36 +0000"
@@ -4891,6 +5047,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/golden_apple_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:30:16 +0000"
     },
     "done": true
   },
@@ -4939,6 +5101,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 20:29:57 +0000"
     },
     "done": true
   },

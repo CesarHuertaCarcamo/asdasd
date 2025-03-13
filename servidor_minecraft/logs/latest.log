@@ -732,3 +732,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 20:27:38.095] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
 [13Mar2025 20:28:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SuYT_05> cesar
 [13Mar2025 20:28:06.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SuYT_05> encontre una aldea de cuarzo xd
+[13Mar2025 20:28:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> wtf
+[13Mar2025 20:28:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SuYT_05> mira ven
+[13Mar2025 20:28:20.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> sin necesidad de ir al nether
+[13Mar2025 20:28:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Teleported iAmCamiii_ to SuYT_05]
+[13Mar2025 20:28:30.475] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:28:30.534] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:28:30.593] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:28:30.698] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:28:48.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> a robarnos sus bloques nomas
+[13Mar2025 20:28:51.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> sale?
+[13Mar2025 20:29:09.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 has made the advancement [Ice Bucket Challenge]
+[13Mar2025 20:30:32.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 20:31:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 has made the advancement [Hunt and Gather]
+[13Mar2025 20:31:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Set the time to 0]
+[13Mar2025 20:32:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:36:17.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iAmCamiii_ lost connection: Disconnected
+[13Mar2025 20:36:17.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iAmCamiii_ left the game
+[13Mar2025 20:37:21.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3019, y=77, z=3771} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Mar2025 20:37:21.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3019, y=77, z=3771}
+[13Mar2025 20:37:38.163] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:38:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]

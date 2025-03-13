@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-13 20:32:09 +0000"
+    },
+    "done": true
+  },
   "buildersdelight:root": {
     "criteria": {
       "crafting_table": "2025-03-12 05:38:15 +0000"
@@ -836,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-13 20:27:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:17:43 +0000"
@@ -1092,6 +1104,13 @@
   "meadow:recipes/cheese_tart": {
     "criteria": {
       "has_wheat": "2025-03-12 07:07:44 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/crabbersdelight/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 20:25:39 +0000",
+      "has_the_recipe": "2025-03-13 20:25:39 +0000"
     },
     "done": true
   },
@@ -1437,6 +1456,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 20:25:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-03-13 20:32:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-03-12 06:33:33 +0000"
@@ -1524,6 +1555,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-03-12 06:33:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 20:25:39 +0000"
     },
     "done": true
   },
@@ -1648,6 +1685,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-03-13 20:32:11 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_nether_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:38:15 +0000"
@@ -1759,6 +1802,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-13 20:32:09 +0000"
     },
     "done": true
   },
@@ -2217,6 +2266,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 20:25:39 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-03-12 06:17:43 +0000"
@@ -2336,6 +2391,12 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-03-12 07:00:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 20:25:39 +0000"
     },
     "done": true
   },
@@ -3025,6 +3086,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-13 20:30:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-03-12 06:17:43 +0000"
@@ -3353,6 +3420,12 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-12 05:47:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-13 20:31:23 +0000"
     },
     "done": true
   },
@@ -3746,6 +3819,7 @@
       "minecraft:mangrove_swamp": "2025-03-13 00:11:18 +0000",
       "minecraft:sparse_jungle": "2025-03-13 00:21:04 +0000",
       "minecraft:river": "2025-03-12 06:00:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-13 20:27:48 +0000",
       "minecraft:snowy_plains": "2025-03-12 05:57:28 +0000",
       "minecraft:snowy_taiga": "2025-03-12 05:55:31 +0000",
       "minecraft:forest": "2025-03-12 05:38:16 +0000",
@@ -3864,6 +3938,12 @@
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000",
       "has_the_recipe": "2025-03-12 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-03-13 20:31:22 +0000"
     },
     "done": true
   },
@@ -4004,6 +4084,12 @@
   "createdeco:recipes/createdeco.metals/polished_iron_bars_from_iron_ingot_stonecutting": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-13 20:31:23 +0000"
     },
     "done": true
   },
@@ -4727,6 +4813,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-03-13 20:31:23 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/emerald": {
     "criteria": {
       "has_item": "2025-03-13 00:46:55 +0000"
@@ -4904,6 +4996,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-12 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-13 20:30:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-13 20:27:23 +0000"
     },
     "done": true
   },
@@ -5093,9 +5197,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-13 20:29:59 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/golden_apple_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:32:52 +0000"
     },
     "done": true
   },
