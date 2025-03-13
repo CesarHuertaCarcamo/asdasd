@@ -2141,6 +2141,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 21:31:28 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/rainbow_eucalyptus_fence": {
     "criteria": {
       "has_planks": "2025-03-13 21:18:29 +0000"
@@ -3034,6 +3040,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-13 21:31:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
@@ -3710,7 +3722,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-12 06:43:52 +0000",
-      "minecraft:spider": "2025-03-13 21:01:18 +0000"
+      "minecraft:spider": "2025-03-13 21:01:18 +0000",
+      "minecraft:zombie_villager": "2025-03-13 21:31:26 +0000"
     },
     "done": false
   },
@@ -4366,6 +4379,7 @@
       "minecraft:ocean": "2025-03-13 20:52:11 +0000",
       "minecraft:windswept_savanna": "2025-03-12 07:03:50 +0000",
       "minecraft:warm_ocean": "2025-03-12 06:51:28 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-13 21:33:51 +0000",
       "minecraft:savanna": "2025-03-13 20:14:19 +0000",
       "minecraft:plains": "2025-03-12 06:22:22 +0000"
     },

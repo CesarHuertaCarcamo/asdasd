@@ -885,3 +885,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 21:26:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 was slain by Rattlesnake
 [13Mar2025 21:26:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
 [13Mar2025 21:28:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 has made the advancement [Mine? Mine? Mine?]
+[13Mar2025 21:30:45.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[13Mar2025 21:30:51.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Mar2025 21:31:19.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuYT_05 lost connection: Disconnected
+[13Mar2025 21:31:19.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 left the game
+[13Mar2025 21:31:26.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/65552, l='ServerLevel[world]', x=-4823.42, y=67.06, z=7443.67] died: Sailor was slain by Melo_uwu246
+[13Mar2025 21:31:27.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/65555, l='ServerLevel[world]', x=-4822.46, y=67.00, z=7443.68] died: Sailor was slain by Melo_uwu246
+[13Mar2025 21:34:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> encontre lo del warden
+[13Mar2025 21:34:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Melo_uwu246> pelea
+[13Mar2025 21:35:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Melo_uwu246> voy a hacer unas cosas
+[13Mar2025 21:35:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Melo_uwu246> mas tarde regreso
+[13Mar2025 21:35:12.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> yap
+[13Mar2025 21:35:14.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melo_uwu246 lost connection: Disconnected
+[13Mar2025 21:35:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 left the game
+[13Mar2025 21:36:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iAmCamiii_ has made the advancement [Sneak 100]
