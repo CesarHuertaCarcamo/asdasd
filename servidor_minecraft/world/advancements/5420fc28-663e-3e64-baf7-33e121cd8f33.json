@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zircon_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
     "criteria": {
       "has_plank": "2025-03-12 06:02:52 +0000"
@@ -200,6 +206,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-12 07:07:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -438,9 +450,21 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/bamboo_flower_pot": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2025-03-12 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/bamboo_chest": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -627,6 +651,12 @@
     },
     "done": false
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/cyan_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:47:57 +0000"
@@ -639,6 +669,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-12 06:12:20 +0000"
@@ -648,6 +684,12 @@
   "exoticbirds:recipes/blue_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tropicraft/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -672,6 +714,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-03-12 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -714,6 +762,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-12 05:44:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -813,6 +867,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zircon_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-03-12 05:38:15 +0000"
@@ -873,6 +933,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/eudialyte_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
@@ -894,6 +960,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-03-12 06:30:19 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/zircon_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -1045,6 +1117,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-12 06:30:25 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/eudialyte_axe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -1229,6 +1307,12 @@
     },
     "done": true
   },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-12 06:02:52 +0000"
@@ -1247,6 +1331,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/dagger": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:18 +0000"
@@ -1262,6 +1352,12 @@
   "exoticbirds:recipes/birch_birdcage": {
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-13 00:14:55 +0000"
     },
     "done": true
   },
@@ -1496,6 +1592,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
@@ -1592,6 +1694,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/eudialyte_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-12 06:27:38 +0000"
@@ -1629,6 +1737,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-03-12 06:43:52 +0000"
@@ -1638,6 +1752,12 @@
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/eudialyte_sword": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -1689,6 +1809,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-12 05:44:51 +0000"
@@ -1708,6 +1834,7 @@
       "minecraft:beach": "2025-03-12 07:06:35 +0000",
       "minecraft:dark_forest": "2025-03-12 06:28:32 +0000",
       "minecraft:mangrove_swamp": "2025-03-13 00:11:18 +0000",
+      "minecraft:sparse_jungle": "2025-03-13 00:21:04 +0000",
       "minecraft:river": "2025-03-12 06:00:07 +0000",
       "minecraft:snowy_plains": "2025-03-12 05:57:28 +0000",
       "minecraft:snowy_taiga": "2025-03-12 05:55:31 +0000",
@@ -1792,6 +1919,12 @@
     },
     "done": true
   },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-12 06:20:19 +0000"
@@ -1871,6 +2004,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_snowy_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:38:15 +0000"
@@ -1880,6 +2019,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -1931,6 +2076,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zirconium_sword": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "vinery:campfire": {
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000",
@@ -1953,6 +2104,13 @@
   "candlelight:recipes/birch_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000",
+      "has_the_recipe": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -1995,6 +2153,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-12 06:58:32 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -2215,6 +2379,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zirconium_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/polished_iron_bars_from_iron_ingot_stonecutting": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
@@ -2365,6 +2535,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zircon_sword": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-12 05:44:51 +0000"
@@ -2425,6 +2601,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/bamboo_mug": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-03-12 06:26:46 +0000"
@@ -2458,6 +2640,12 @@
   "jmc:recipes/jmc.jmc_tab/redstone_cake_from_cake_oven": {
     "criteria": {
       "has_item": "2025-03-12 06:33:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -2504,6 +2692,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -2763,6 +2957,12 @@
   "candlelight:recipes/oak_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/bamboo_bundle": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -3050,6 +3250,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-03-12 06:26:46 +0000"
@@ -3214,6 +3420,18 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-12 06:58:32 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/zircon_axe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/zirconium_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -3403,6 +3621,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/zirconium_axe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-12 05:44:51 +0000"
@@ -3418,6 +3642,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -3514,6 +3744,12 @@
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/zirconium_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -3616,6 +3852,12 @@
   "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-03-12 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -3790,6 +4032,12 @@
   "candlelight:recipes/dough_from_water_bucket": {
     "criteria": {
       "has_the_recipe": "2025-03-12 07:07:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
@@ -4062,6 +4310,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:17:43 +0000"
@@ -4186,6 +4440,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tropicraft/eudialyte_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-03-13 00:18:55 +0000"
     },
     "done": true
   },
