@@ -796,3 +796,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 20:56:37.686] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3682, y=-40, z=5008}
 [13Mar2025 20:57:12.244] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 33, but a ship with this ShipId does not exist!
 [13Mar2025 20:57:36.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:59:28.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3621, y=67, z=5221} but found not block entity block Block{minecraft:air} at location
+[13Mar2025 20:59:28.370] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3621, y=67, z=5221}
+[13Mar2025 21:00:43.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3309ms or 66 ticks behind
+[13Mar2025 21:01:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:01:30.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 is bleeding. SuYT_05 was slain by Vindicator
+[13Mar2025 21:01:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 21:01:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[13Mar2025 21:02:37.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
+[13Mar2025 21:03:10.666] [Worker-Main-5/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Mar2025 21:04:04.495] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[13Mar2025 21:04:04.497] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[13Mar2025 21:04:04.497] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=177}
+[13Mar2025 21:04:04.497] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=178}
+[13Mar2025 21:04:42.959] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[13Mar2025 21:04:42.959] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=658, y=-58, z=179}
+[13Mar2025 21:04:42.959] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=177}
+[13Mar2025 21:04:42.960] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=661, y=-58, z=178}
+[13Mar2025 21:05:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:06:56.907] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3330, y=5, z=6274}
+[13Mar2025 21:07:40.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:08:11.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3925, y=74, z=6438} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[13Mar2025 21:08:11.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-3925, y=74, z=6438}
+[13Mar2025 21:08:11.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3925, y=73, z=6438} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Mar2025 21:08:11.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-3925, y=73, z=6438}
+[13Mar2025 21:08:11.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3925, y=74, z=6437} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[13Mar2025 21:08:11.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3925, y=74, z=6437}

@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/mozzarella_from_water_bucket": {
     "criteria": {
       "has_water_bucket": "2025-03-13 20:47:28 +0000"
@@ -428,6 +434,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
     },
     "done": true
   },
@@ -506,6 +518,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-03-12 06:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
     },
     "done": true
   },
@@ -1040,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-13 21:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-12 06:03:31 +0000"
@@ -1168,6 +1192,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-03-12 05:38:15 +0000"
@@ -1213,6 +1243,12 @@
   "nethersdelight:recipes/nethersdelight/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:26:46 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_planks": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:02:18 +0000"
     },
     "done": true
   },
@@ -1619,6 +1655,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-03-12 05:38:15 +0000"
@@ -1691,9 +1733,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-03-12 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
     },
     "done": true
   },
@@ -1706,6 +1760,12 @@
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
       "has_ham": "2025-03-13 20:32:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
     },
     "done": true
   },
@@ -2350,6 +2410,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2025-03-12 05:52:54 +0000"
@@ -2391,14 +2457,19 @@
       "byg:allium_fields": "2025-03-12 06:18:30 +0000",
       "byg:prairie": "2025-03-12 06:12:03 +0000",
       "byg:rainbow_beach": "2025-03-13 20:48:00 +0000",
+      "byg:orchard": "2025-03-13 21:01:32 +0000",
       "byg:redwood_thicket": "2025-03-13 20:21:11 +0000",
       "byg:fragment_forest": "2025-03-12 06:41:11 +0000",
       "byg:firecracker_shrubland": "2025-03-13 20:19:34 +0000",
+      "byg:weeping_witch_forest": "2025-03-13 21:08:14 +0000",
+      "byg:zelkova_forest": "2025-03-13 21:05:10 +0000",
       "byg:araucaria_savanna": "2025-03-13 20:44:30 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:46 +0000",
+      "byg:cherry_blossom_forest": "2025-03-13 21:01:15 +0000",
       "byg:baobab_savanna": "2025-03-13 20:17:36 +0000",
       "byg:amaranth_fields": "2025-03-12 06:43:38 +0000",
-      "byg:basalt_barrera": "2025-03-13 20:49:29 +0000"
+      "byg:basalt_barrera": "2025-03-13 20:49:29 +0000",
+      "byg:temperate_rainforest": "2025-03-13 21:08:09 +0000"
     },
     "done": false
   },
@@ -2442,6 +2513,12 @@
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-03-13 00:48:08 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
     },
     "done": true
   },
@@ -2538,6 +2615,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
     },
     "done": true
   },
@@ -2854,6 +2937,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_boat": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-03-12 05:38:15 +0000"
@@ -3088,6 +3177,7 @@
     "criteria": {
       "woodland": "2025-03-13 20:15:04 +0000",
       "shrubland": "2025-03-12 06:02:31 +0000",
+      "rocky_shrubland": "2025-03-13 21:01:06 +0000",
       "scrubland": "2025-03-13 20:18:19 +0000",
       "lush_savanna": "2025-03-12 07:04:33 +0000",
       "clover_patch": "2025-03-12 06:00:05 +0000",
@@ -3096,6 +3186,7 @@
       "coniferous_forest": "2025-03-12 05:39:28 +0000",
       "wasteland": "2025-03-12 06:50:53 +0000",
       "lush_desert": "2025-03-12 07:00:34 +0000",
+      "cherry_blossom_grove": "2025-03-13 21:07:41 +0000",
       "lavender_field": "2025-03-13 20:38:16 +0000",
       "grassland": "2025-03-12 05:59:37 +0000",
       "snowy_maple_woods": "2025-03-12 05:55:58 +0000"
@@ -3294,6 +3385,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/poison_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 21:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-03-12 06:30:25 +0000"
@@ -3302,7 +3399,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-03-12 06:43:52 +0000"
+      "minecraft:skeleton": "2025-03-12 06:43:52 +0000",
+      "minecraft:spider": "2025-03-13 21:01:18 +0000"
     },
     "done": false
   },
@@ -3418,6 +3516,12 @@
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-03-12 06:02:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
     },
     "done": true
   },
@@ -3581,6 +3685,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-13 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
     },
     "done": true
   },
@@ -4272,6 +4382,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-12 05:44:51 +0000"
@@ -4363,6 +4479,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-03-13 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
     },
     "done": true
   },
@@ -5089,6 +5211,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-13 20:27:23 +0000"
@@ -5110,6 +5238,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-13 21:02:18 +0000"
     },
     "done": true
   },
@@ -5152,6 +5286,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/gold_sheet_metal_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-03-13 21:06:21 +0000"
     },
     "done": true
   },

@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/rock_salt": {
     "criteria": {
       "item": "2025-03-13 20:12:51 +0000"
@@ -206,6 +212,12 @@
   "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
     "criteria": {
       "has_apple": "2025-03-12 06:06:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -450,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-13 21:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-12 06:01:21 +0000"
@@ -477,6 +495,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2025-03-12 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-13 21:00:23 +0000"
     },
     "done": true
   },
@@ -591,6 +615,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -2218,6 +2248,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-13 21:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-12 06:11:31 +0000"
@@ -2254,6 +2290,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-03-12 05:44:28 +0000"
@@ -2287,6 +2329,12 @@
   "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-03-13 01:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -2535,18 +2583,24 @@
       "byg:allium_fields": "2025-03-12 06:10:07 +0000",
       "byg:prairie": "2025-03-12 06:10:23 +0000",
       "byg:rainbow_beach": "2025-03-13 20:48:09 +0000",
+      "byg:orchard": "2025-03-13 20:59:08 +0000",
       "byg:red_oak_forest": "2025-03-13 20:18:39 +0000",
       "byg:redwood_thicket": "2025-03-13 20:15:53 +0000",
       "byg:fragment_forest": "2025-03-12 06:42:00 +0000",
       "byg:rose_fields": "2025-03-13 20:22:02 +0000",
       "byg:firecracker_shrubland": "2025-03-13 20:43:13 +0000",
+      "byg:weeping_witch_forest": "2025-03-13 21:04:08 +0000",
+      "byg:zelkova_forest": "2025-03-13 21:04:43 +0000",
       "byg:araucaria_savanna": "2025-03-13 20:43:12 +0000",
       "byg:crag_gardens": "2025-03-13 20:19:39 +0000",
+      "byg:aspen_forest": "2025-03-13 21:00:07 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:26 +0000",
+      "byg:cherry_blossom_forest": "2025-03-13 21:01:18 +0000",
       "byg:baobab_savanna": "2025-03-13 20:17:31 +0000",
       "byg:amaranth_fields": "2025-03-12 06:43:17 +0000",
       "byg:ebony_woods": "2025-03-13 20:20:16 +0000",
-      "byg:basalt_barrera": "2025-03-12 06:16:29 +0000"
+      "byg:basalt_barrera": "2025-03-12 06:16:29 +0000",
+      "byg:temperate_rainforest": "2025-03-13 21:04:33 +0000"
     },
     "done": false
   },
@@ -2689,6 +2743,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 21:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
@@ -2759,6 +2819,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-03-12 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -3060,6 +3126,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:23:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -3375,7 +3447,9 @@
       "highland": "2025-03-13 20:22:12 +0000",
       "bamboo_grove": "2025-03-13 20:22:26 +0000",
       "clover_patch": "2025-03-12 06:00:14 +0000",
+      "old_growth_woodland": "2025-03-13 21:08:56 +0000",
       "field": "2025-03-12 05:57:15 +0000",
+      "orchard": "2025-03-13 21:08:33 +0000",
       "mediterranean_forest": "2025-03-13 20:12:19 +0000",
       "coniferous_forest": "2025-03-12 05:45:55 +0000",
       "wasteland": "2025-03-12 06:50:04 +0000",
@@ -3857,6 +3931,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-13 21:00:23 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2025-03-12 06:03:41 +0000"
@@ -4263,6 +4343,12 @@
   "undergarden:recipes/undergarden_group/grongle_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-13 21:00:26 +0000"
     },
     "done": true
   },
@@ -4734,6 +4820,12 @@
     },
     "done": false
   },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2025-03-13 21:00:26 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_ender_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:44:28 +0000"
@@ -4890,9 +4982,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 21:06:16 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/oak_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:58:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-13 21:00:24 +0000"
     },
     "done": true
   },
@@ -5180,9 +5284,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/typewriter_iron": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
@@ -5631,6 +5747,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:54 +0000"
@@ -5874,6 +5996,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_membrane": {
     "criteria": {
       "has_membrane": "2025-03-12 05:44:28 +0000"
@@ -5911,6 +6039,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-13 21:06:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-03-12 05:53:13 +0000"
@@ -5926,6 +6060,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-12 05:54:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-03-13 21:05:45 +0000"
     },
     "done": true
   },
