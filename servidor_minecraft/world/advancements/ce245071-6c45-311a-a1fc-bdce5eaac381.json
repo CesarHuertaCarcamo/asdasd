@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-13 21:41:02 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2025-03-12 05:45:27 +0000"
@@ -858,6 +864,12 @@
   "exoticbirds:recipes/spruce_birdcage": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-13 21:41:02 +0000"
     },
     "done": true
   },
@@ -1625,6 +1637,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2025-03-13 21:41:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-12 07:00:28 +0000"
@@ -1833,6 +1851,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-13 20:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-13 21:41:02 +0000"
     },
     "done": true
   },
@@ -2060,6 +2084,12 @@
   "tropicraft:recipes/tropicraft/zirconium_axe": {
     "criteria": {
       "has_bamboo": "2025-03-13 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2025-03-13 21:40:43 +0000"
     },
     "done": true
   },
@@ -4315,8 +4345,10 @@
       "beef": "2025-03-12 05:58:02 +0000",
       "porkchop": "2025-03-12 05:58:26 +0000",
       "cooked_cod": "2025-03-13 00:55:35 +0000",
+      "pumpkin_pie": "2025-03-13 21:44:25 +0000",
       "mutton": "2025-03-12 06:00:32 +0000",
       "bread": "2025-03-12 06:07:04 +0000",
+      "golden_apple": "2025-03-13 21:47:06 +0000",
       "cod": "2025-03-12 07:02:53 +0000",
       "cooked_salmon": "2025-03-12 07:05:49 +0000"
     },
