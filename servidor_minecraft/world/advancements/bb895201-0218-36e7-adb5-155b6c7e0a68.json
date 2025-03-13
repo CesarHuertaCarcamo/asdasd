@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-13 00:43:55 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-03-13 00:43:55 +0000"
@@ -486,9 +498,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-03-13 00:16:23 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cobblestone_kitchen_sink": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -937,6 +961,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/cobblestone_counter": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-03-13 00:16:23 +0000"
@@ -1247,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2025-03-13 00:24:40 +0000"
@@ -1267,11 +1303,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-13 01:10:42 +0000",
       "minecraft:mangrove_swamp": "2025-03-13 00:26:12 +0000",
       "minecraft:sparse_jungle": "2025-03-13 00:26:45 +0000",
       "minecraft:river": "2025-03-13 00:32:49 +0000",
       "minecraft:desert": "2025-03-13 00:33:22 +0000",
       "minecraft:jungle": "2025-03-13 00:16:41 +0000",
+      "minecraft:windswept_savanna": "2025-03-13 01:11:36 +0000",
       "minecraft:plains": "2025-03-13 00:34:42 +0000"
     },
     "done": false
@@ -1306,9 +1344,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-13 00:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -1333,6 +1389,12 @@
   "candlelight:recipes/mangrove_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-13 00:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -1382,6 +1444,13 @@
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2025-03-13 00:16:23 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/crabbersdelight/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 01:14:49 +0000",
+      "has_the_recipe": "2025-03-13 01:14:49 +0000"
     },
     "done": true
   },
@@ -1481,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "dirt": "2025-03-13 00:18:52 +0000"
@@ -1544,6 +1619,12 @@
   "bakery:recipes/bread_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-13 00:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -1771,8 +1852,15 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 01:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-13 01:14:52 +0000",
       "potato": "2025-03-13 00:25:17 +0000",
       "bread": "2025-03-13 00:28:31 +0000"
     },
@@ -1820,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-13 00:20:43 +0000"
@@ -1847,6 +1941,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-13 00:24:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 01:14:49 +0000"
     },
     "done": true
   },
@@ -1988,9 +2088,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-13 00:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -2141,6 +2253,12 @@
   "chiselsandbits:recipes/chiselsandbits/modification_table": {
     "criteria": {
       "has_p": "2025-03-13 00:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -2558,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-03-13 00:17:29 +0000"
@@ -2684,6 +2808,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 01:14:49 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2025-03-13 00:16:23 +0000"
@@ -2772,6 +2902,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-03-13 00:16:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-13 01:14:49 +0000"
     },
     "done": true
   },
@@ -2946,6 +3082,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-03-13 00:16:23 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cobblestone_stove": {
+    "criteria": {
+      "has_cobblestone": "2025-03-13 01:13:15 +0000"
     },
     "done": true
   },
