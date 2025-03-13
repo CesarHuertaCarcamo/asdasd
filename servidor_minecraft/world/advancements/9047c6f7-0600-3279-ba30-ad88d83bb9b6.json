@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-13 21:13:55 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-03-13 00:19:03 +0000"
@@ -50,6 +56,12 @@
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -140,6 +152,12 @@
   "tropicraft:recipes/tropicraft/white_umbrella": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -690,6 +708,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:23:01 +0000"
@@ -753,6 +777,12 @@
   "exoticbirds:recipes/phoenix_egg_from_desert_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-13 21:17:07 +0000"
     },
     "done": true
   },
@@ -1223,6 +1253,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-03-13 21:15:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 01:10:18 +0000"
@@ -1448,6 +1484,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -1943,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/bamboo_item_frame": {
     "criteria": {
       "has_leather": "2025-03-13 20:51:40 +0000"
@@ -2018,6 +2066,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-03-13 21:13:55 +0000"
     },
     "done": true
   },
@@ -2341,6 +2395,12 @@
   "exoticbirds:recipes/lime_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-13 21:17:07 +0000"
     },
     "done": true
   },
@@ -2722,6 +2782,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -3123,6 +3189,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:23:05 +0000"
@@ -3264,6 +3336,12 @@
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -3464,6 +3542,12 @@
       "rainforest": "2025-03-12 06:58:01 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-13 21:13:55 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
@@ -3816,6 +3900,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_gold_block": "2025-03-13 20:29:04 +0000"
@@ -3837,6 +3927,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-13 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -3977,6 +4073,12 @@
     "criteria": {
       "has_cod": "2025-03-12 07:00:27 +0000",
       "has_the_recipe": "2025-03-12 07:00:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -4321,6 +4423,7 @@
       "minecraft:mangrove_swamp": "2025-03-12 06:58:21 +0000",
       "minecraft:sparse_jungle": "2025-03-12 07:03:23 +0000",
       "minecraft:river": "2025-03-12 05:54:08 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-13 21:17:18 +0000",
       "minecraft:stony_shore": "2025-03-12 06:55:50 +0000",
       "minecraft:forest": "2025-03-12 05:44:29 +0000",
       "minecraft:desert": "2025-03-12 06:49:14 +0000",
@@ -4343,6 +4446,12 @@
   "undergarden:recipes/undergarden_group/grongle_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -4466,6 +4575,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "vinery:campfire": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000",
@@ -4575,6 +4690,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-03-13 20:21:29 +0000"
@@ -4633,6 +4754,12 @@
   "exoticbirds:recipes/white_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -4943,6 +5070,12 @@
   "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-03-13 01:13:02 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -5753,6 +5886,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-13 21:17:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:54 +0000"
@@ -5768,6 +5907,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2025-03-12 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -5954,6 +6099,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
