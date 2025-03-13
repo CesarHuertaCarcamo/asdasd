@@ -1923,6 +1923,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-03-13 00:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-12 05:58:10 +0000"
@@ -2751,6 +2757,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-13 00:29:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-03-12 06:11:31 +0000"
@@ -3008,6 +3020,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 00:40:17 +0000"
     },
     "done": true
   },
@@ -3772,6 +3790,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-12 06:15:44 +0000",
       "baked_potato": "2025-03-12 06:22:13 +0000",
+      "apple": "2025-03-13 00:39:48 +0000",
       "bread": "2025-03-12 06:27:23 +0000",
       "cooked_chicken": "2025-03-12 06:03:04 +0000"
     },
@@ -3864,6 +3883,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-03-13 00:40:17 +0000"
     },
     "done": true
   },
@@ -4100,6 +4125,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-12 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/glow_berry_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 00:40:17 +0000"
     },
     "done": true
   },
@@ -4412,6 +4443,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/gamblers_tea": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 00:40:17 +0000"
     },
     "done": true
   },

@@ -793,3 +793,81 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 00:27:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pingatron: Teleported Pingatron to iAmCamiii_]
 [13Mar2025 00:27:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Bolita83]
 [13Mar2025 00:29:10.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bolita83: Teleported Bolita83 to Melo_uwu246]
+[13Mar2025 00:29:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iAmCamiii_ has made the advancement [Light Up The World!]
+[13Mar2025 00:29:48.247] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 00:31:00.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iAmCamiii_ has made the advancement [This Must be a Sign!]
+[13Mar2025 00:31:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron has made the advancement [This Must be a Sign!]
+[13Mar2025 00:31:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Teleported iAmCamiii_ to Pingatron]
+[13Mar2025 00:31:38.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55293143
+[13Mar2025 00:31:38.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aaron_1602[/127.173.239.59:45089] logged in with entity id 20922 at (-2167.128631679829, 65.0, 1194.7544518833918)
+[13Mar2025 00:31:38.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Aaron_1602
+[13Mar2025 00:31:38.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Aaron_1602
+[13Mar2025 00:31:38.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Aaron_1602
+[13Mar2025 00:31:38.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Aaron_1602
+[13Mar2025 00:31:38.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Aaron_1602
+[13Mar2025 00:31:38.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Aaron_1602
+[13Mar2025 00:31:38.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Aaron_1602
+[13Mar2025 00:31:38.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aaron_1602 joined the game
+[13Mar2025 00:31:52.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2699, y=87, z=714} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[13Mar2025 00:31:52.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2699, y=87, z=714}
+[13Mar2025 00:31:52.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2699, y=86, z=714} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Mar2025 00:31:52.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-2699, y=86, z=714}
+[13Mar2025 00:31:52.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2699, y=87, z=715} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[13Mar2025 00:31:52.725] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2699, y=87, z=715}
+[13Mar2025 00:32:19.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13Mar2025 00:32:37.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[13Mar2025 00:32:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pingatron: Teleported Pingatron to SuYT_05]
+[13Mar2025 00:32:55.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[13Mar2025 00:32:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pingatron: Teleported Pingatron to Melo_uwu246]
+[13Mar2025 00:33:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 was slain by Komodo Dragon
+[13Mar2025 00:33:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aaron_1602: Teleported Aaron_1602 to SuYT_05]
+[13Mar2025 00:33:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron has reached the goal [Flowers of the Savanna]
+[13Mar2025 00:33:49.795] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 00:33:49.938] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 00:33:52.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[13Mar2025 00:33:58.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1707, y=71, z=1940} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false,weathering=false] at location
+[13Mar2025 00:33:58.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false,weathering=false] but failed at location BlockPos{x=-1707, y=71, z=1940}
+[13Mar2025 00:33:58.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1708, y=71, z=1940} but found not block entity block Block{minecraft:stone}[weathering=false] at location
+[13Mar2025 00:33:58.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone}[weathering=false] but failed at location BlockPos{x=-1708, y=71, z=1940}
+[13Mar2025 00:33:58.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1706, y=74, z=1941} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[13Mar2025 00:33:58.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1706, y=74, z=1941}
+[13Mar2025 00:33:58.732] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1706, y=73, z=1941} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1706, y=73, z=1941}
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1708, y=74, z=1941} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1708, y=74, z=1941}
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1708, y=73, z=1941} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1708, y=73, z=1941}
+[13Mar2025 00:33:58.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1707, y=74, z=1941} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[13Mar2025 00:33:58.734] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-1707, y=74, z=1941}
+[13Mar2025 00:34:41.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bolita83: Teleported Bolita83 to SuYT_05]
+[13Mar2025 00:37:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bolita83: Teleported Bolita83 to Aaron_1602]
+[13Mar2025 00:38:22.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 has made the advancement [Isn't It Iron Pick]
+[13Mar2025 00:38:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Teleported iAmCamiii_ to SuYT_05]
+[13Mar2025 00:39:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 00:39:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron is bleeding. Pingatron drowned
+[13Mar2025 00:39:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron drowned
+[13Mar2025 00:39:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 is bleeding. Bolita83 was slain by Snot
+[13Mar2025 00:39:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Set the time to 0]
+[13Mar2025 00:39:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pingatron: Teleported Pingatron to Melo_uwu246]
+[13Mar2025 00:40:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron is bleeding. Pingatron was slain by Weird Orc Savage
+[13Mar2025 00:40:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 was slain by Weird Orc Savage
+[13Mar2025 00:40:32.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 is bleeding. Bolita83 was slain by Goblin Savage
+[13Mar2025 00:40:56.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron is bleeding. Pingatron was slain by Orc with Shield
+[13Mar2025 00:41:21.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aaron_1602 is bleeding. Aaron_1602 hit the ground too hard whilst trying to escape Orc with Shield
+[13Mar2025 00:41:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron is bleeding. Pingatron was slain by Orc Savage with Sword
+[13Mar2025 00:41:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 was slain by Orc Savage with Sword
+[13Mar2025 00:41:45.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 is bleeding. Bolita83 was slain by Orc Savage with Sword
+[13Mar2025 00:42:38.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Teleported iAmCamiii_ to SuYT_05]
+[13Mar2025 00:42:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bolita83: Teleported Bolita83 to SuYT_05]
+[13Mar2025 00:42:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aaron_1602 is bleeding. Aaron_1602 was slain by Melo_uwu246
+[13Mar2025 00:42:51.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pingatron: Teleported Pingatron to SuYT_05]
+[13Mar2025 00:43:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 00:43:11.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aaron_1602: Teleported Aaron_1602 to SuYT_05]
+[13Mar2025 00:43:37.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pingatron has made the advancement [Acquire Hardware]
+[13Mar2025 00:43:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 has made the advancement [Acquire Hardware]
+[13Mar2025 00:45:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aaron_1602 has made the advancement [Cover Me with Diamonds]
+[13Mar2025 00:47:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to Aaron_1602]
+[13Mar2025 00:47:32.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 has made the advancement [Diamonds!]
+[13Mar2025 00:48:07.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuYT_05 lost connection: Disconnected
+[13Mar2025 00:48:07.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 left the game
+[13Mar2025 00:49:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bolita83 has made the advancement [Cover Me with Diamonds]
