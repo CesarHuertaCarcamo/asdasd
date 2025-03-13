@@ -874,3 +874,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 21:19:11.808] [Worker-Main-4/WARN] [ModernFix/]: The namespace jmc contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [13Mar2025 21:19:11.917] [Worker-Main-4/WARN] [ModernFix/]: The namespace chefsdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [13Mar2025 21:19:35.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[13Mar2025 21:20:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 21:22:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 fell from a high place
+[13Mar2025 21:22:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:24:44.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[13Mar2025 21:25:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[13Mar2025 21:25:40.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4731, y=67, z=7051} but found not block entity block Block{minecraft:air} at location
+[13Mar2025 21:25:40.290] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-4731, y=67, z=7051}
+[13Mar2025 21:26:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:26:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 is bleeding. Melo_uwu246 was slain by Rattlesnake
+[13Mar2025 21:26:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Teleported Melo_uwu246 to SuYT_05]
+[13Mar2025 21:28:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 has made the advancement [Mine? Mine? Mine?]

@@ -47,6 +47,13 @@
     },
     "done": true
   },
+  "beachparty:beachpartybeach_hat": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000",
+      "has_the_recipe": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/gray_beach_float": {
     "criteria": {
       "has_gray_wool": "2025-03-13 20:30:06 +0000"
@@ -92,6 +99,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
     },
     "done": true
   },
@@ -846,6 +859,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-13 21:21:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2025-03-12 06:23:53 +0000"
@@ -1228,6 +1247,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-12 06:24:40 +0000"
@@ -1292,6 +1317,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
     },
     "done": true
   },
@@ -1523,6 +1554,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/veggie_plate": {
+    "criteria": {
+      "has_carrot": "2025-03-13 21:21:37 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-03-12 05:58:10 +0000"
@@ -1721,6 +1758,12 @@
     },
     "done": true
   },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-03-13 00:19:03 +0000"
@@ -1778,6 +1821,12 @@
   "byg:recipes/byg.byg/blue_enchanted_slab": {
     "criteria": {
       "has_planks": "2025-03-12 06:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-03-13 21:23:57 +0000"
     },
     "done": true
   },
@@ -2084,6 +2133,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:45:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
     },
     "done": true
   },
@@ -2476,6 +2531,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/carrot_crate": {
+    "criteria": {
+      "has_carrot": "2025-03-13 21:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-12 05:58:10 +0000"
@@ -2575,6 +2636,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-12 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/carrot_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 21:21:37 +0000"
     },
     "done": true
   },
@@ -2773,6 +2840,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-13 21:20:43 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-03-12 05:44:28 +0000"
@@ -2806,6 +2879,12 @@
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-03-13 20:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-13 21:21:37 +0000"
     },
     "done": true
   },
@@ -2915,6 +2994,12 @@
   "taxov:advancement_pirate": {
     "criteria": {
       "advancement_pirate_0": "2025-03-12 06:17:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-03-13 21:21:49 +0000"
     },
     "done": true
   },
@@ -3099,6 +3184,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-12 05:46:33 +0000"
@@ -3123,9 +3214,21 @@
     },
     "done": true
   },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-03-13 20:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
     },
     "done": true
   },
@@ -3222,6 +3325,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-13 21:20:43 +0000"
     },
     "done": true
   },
@@ -3401,6 +3510,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 21:21:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
@@ -3410,6 +3525,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-03-13 21:20:43 +0000"
     },
     "done": true
   },
@@ -4696,6 +4817,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-03-13 20:21:29 +0000"
@@ -4799,6 +4926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-03-13 20:38:27 +0000"
@@ -4886,6 +5019,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-03-13 21:21:40 +0000"
     },
     "done": true
   },
@@ -5088,6 +5227,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-13 21:21:38 +0000"
     },
     "done": true
   },
@@ -6099,6 +6244,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/golden_apple_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 21:21:28 +0000"
     },
     "done": true
   },
