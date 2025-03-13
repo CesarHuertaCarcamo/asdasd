@@ -1,4 +1,10 @@
 {
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-13 20:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-12 05:54:39 +0000"
@@ -194,6 +200,12 @@
   "bakery:recipes/small_cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -696,6 +708,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 06:18:32 +0000"
@@ -1067,6 +1085,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-03-12 05:29:36 +0000"
@@ -1295,6 +1319,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/decorations/crab_trap": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
@@ -1358,6 +1388,12 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-03-13 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -1713,6 +1749,12 @@
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-03-13 20:16:37 +0000"
     },
     "done": true
   },
@@ -2117,6 +2159,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-03-12 05:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -2595,6 +2643,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 05:57:52 +0000"
@@ -2729,6 +2783,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-13 20:16:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-03-13 00:39:19 +0000"
@@ -2816,6 +2876,12 @@
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
       "has_template": "2025-03-12 05:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -3006,6 +3072,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/diamond": {
     "criteria": {
       "has_item": "2025-03-12 07:00:28 +0000"
@@ -3149,6 +3221,12 @@
     "criteria": {
       "has_cod": "2025-03-12 07:02:10 +0000",
       "has_the_recipe": "2025-03-12 07:02:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -3603,6 +3681,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooden_cauldron": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
@@ -3627,6 +3711,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "wares:recipes/decorations/delivery_table": {
     "criteria": {
       "has_feather": "2025-03-12 06:01:22 +0000"
@@ -3642,6 +3732,18 @@
   "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-03-12 06:09:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -3736,6 +3838,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/maple_spear": {
     "criteria": {
       "has_item": "2025-03-13 00:29:40 +0000"
@@ -3793,6 +3901,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-12 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -3925,9 +4039,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },
@@ -4189,6 +4315,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-12 05:29:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-13 20:21:51 +0000"
     },
     "done": true
   },

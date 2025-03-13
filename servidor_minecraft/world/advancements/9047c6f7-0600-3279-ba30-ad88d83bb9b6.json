@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:16:44 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:58:10 +0000"
@@ -464,6 +470,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-12 07:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:16:44 +0000"
     },
     "done": true
   },
@@ -996,6 +1008,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:04:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
     },
     "done": true
   },
@@ -1576,6 +1594,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-03-12 05:53:22 +0000"
@@ -1771,6 +1795,12 @@
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2025-03-12 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_cherry_planks": "2025-03-13 20:21:29 +0000"
     },
     "done": true
   },
@@ -2221,9 +2251,15 @@
     "criteria": {
       "byg:allium_fields": "2025-03-12 06:10:07 +0000",
       "byg:prairie": "2025-03-12 06:10:23 +0000",
+      "byg:red_oak_forest": "2025-03-13 20:18:39 +0000",
+      "byg:redwood_thicket": "2025-03-13 20:15:53 +0000",
       "byg:fragment_forest": "2025-03-12 06:42:00 +0000",
+      "byg:rose_fields": "2025-03-13 20:22:02 +0000",
+      "byg:crag_gardens": "2025-03-13 20:19:39 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:26 +0000",
+      "byg:baobab_savanna": "2025-03-13 20:17:31 +0000",
       "byg:amaranth_fields": "2025-03-12 06:43:17 +0000",
+      "byg:ebony_woods": "2025-03-13 20:20:16 +0000",
       "byg:basalt_barrera": "2025-03-12 06:16:29 +0000"
     },
     "done": false
@@ -2698,6 +2734,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-03-12 05:44:28 +0000"
@@ -2952,12 +2994,18 @@
       "shrubland": "2025-03-12 06:06:56 +0000",
       "scrubland": "2025-03-12 06:59:58 +0000",
       "bayou": "2025-03-12 07:03:12 +0000",
+      "highland": "2025-03-13 20:22:12 +0000",
+      "bamboo_grove": "2025-03-13 20:22:26 +0000",
       "clover_patch": "2025-03-12 06:00:14 +0000",
       "field": "2025-03-12 05:57:15 +0000",
       "mediterranean_forest": "2025-03-13 20:12:19 +0000",
       "coniferous_forest": "2025-03-12 05:45:55 +0000",
       "wasteland": "2025-03-12 06:50:04 +0000",
+      "cherry_blossom_grove": "2025-03-13 20:20:56 +0000",
+      "highland_moor": "2025-03-13 20:23:20 +0000",
+      "rocky_rainforest": "2025-03-13 20:15:57 +0000",
       "grassland": "2025-03-12 05:59:48 +0000",
+      "glowing_grotto": "2025-03-13 20:23:08 +0000",
       "rainforest": "2025-03-12 06:58:01 +0000"
     },
     "done": false
@@ -3091,6 +3139,12 @@
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2025-03-13 20:16:44 +0000"
     },
     "done": true
   },
@@ -3685,6 +3739,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-03-12 06:07:44 +0000"
@@ -3818,6 +3878,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:58:10 +0000"
@@ -3860,6 +3926,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-13 20:21:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2025-03-12 06:23:53 +0000"
@@ -3881,6 +3953,12 @@
   "wares:recipes/decorations/delivery_table": {
     "criteria": {
       "has_feather": "2025-03-12 05:56:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
     },
     "done": true
   },
@@ -4053,6 +4131,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-03-13 01:13:02 +0000"
@@ -4126,6 +4210,12 @@
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-03-12 06:23:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-03-13 20:21:29 +0000"
     },
     "done": true
   },
@@ -4923,6 +5013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-13 20:16:44 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_cloud_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:44:28 +0000"
@@ -4938,6 +5034,12 @@
   "another_furniture:recipes/spruce_shelf": {
     "criteria": {
       "has_planks": "2025-03-12 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_logs": "2025-03-13 20:21:26 +0000"
     },
     "done": true
   },
