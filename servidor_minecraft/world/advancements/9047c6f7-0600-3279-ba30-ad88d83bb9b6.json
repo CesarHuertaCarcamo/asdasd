@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/rock_salt": {
+    "criteria": {
+      "item": "2025-03-13 20:12:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-03-12 06:11:31 +0000"
@@ -749,6 +755,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-13 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rock_salt": {
+    "criteria": {
+      "has_item": "2025-03-13 20:12:51 +0000"
     },
     "done": true
   },
@@ -2043,15 +2055,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-03-13 01:10:52 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
     "criteria": {
       "has_log": "2025-03-13 01:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-03-13 01:10:52 +0000"
     },
     "done": true
   },
@@ -2942,6 +2954,7 @@
       "bayou": "2025-03-12 07:03:12 +0000",
       "clover_patch": "2025-03-12 06:00:14 +0000",
       "field": "2025-03-12 05:57:15 +0000",
+      "mediterranean_forest": "2025-03-13 20:12:19 +0000",
       "coniferous_forest": "2025-03-12 05:45:55 +0000",
       "wasteland": "2025-03-12 06:50:04 +0000",
       "grassland": "2025-03-12 05:59:48 +0000",

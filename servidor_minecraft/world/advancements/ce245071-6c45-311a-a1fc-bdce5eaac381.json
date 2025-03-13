@@ -335,6 +335,13 @@
     },
     "done": true
   },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000",
+      "has_the_recipe": "2025-03-13 20:09:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-13 01:13:06 +0000"
@@ -497,6 +504,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tropicraft/eudialyte_axe": {
     "criteria": {
       "has_bamboo": "2025-03-13 01:13:06 +0000"
@@ -572,6 +585,12 @@
   "exoticbirds:recipes/iron_birdcage": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -905,6 +924,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-12 06:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -1478,6 +1503,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -2336,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-03-12 06:00:25 +0000"
@@ -2866,6 +2903,18 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/poison_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-12 07:00:28 +0000"
@@ -2924,6 +2973,12 @@
   "meadow:recipes/can": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -3148,6 +3203,12 @@
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-03-12 06:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -3636,6 +3697,12 @@
   "exoticbirds:recipes/white_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },
@@ -4260,6 +4327,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-13 20:09:47 +0000"
     },
     "done": true
   },

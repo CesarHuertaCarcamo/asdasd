@@ -1,8 +1,8 @@
-[00:07:18] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[00:07:18] [INIT] Loaded plugins:
-[00:07:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:07:18] [INIT] - com.probejs.ProbeJSPlugin
-[00:07:19] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[00:07:19] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[00:07:19] [INFO] Loaded 1/1 KubeJS server scripts in 0.016 s
-[00:07:19] [INFO] Scripts loaded
+[20:08:38] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[20:08:38] [INIT] Loaded plugins:
+[20:08:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:08:38] [INIT] - com.probejs.ProbeJSPlugin
+[20:08:39] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[20:08:39] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[20:08:39] [INFO] Loaded 1/1 KubeJS server scripts in 0.016 s
+[20:08:39] [INFO] Scripts loaded
