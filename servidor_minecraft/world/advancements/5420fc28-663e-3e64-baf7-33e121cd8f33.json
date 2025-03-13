@@ -2062,6 +2062,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-13 20:53:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed_by": "2025-03-12 05:46:03 +0000"
@@ -2391,7 +2397,8 @@
       "byg:araucaria_savanna": "2025-03-13 20:44:30 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:46 +0000",
       "byg:baobab_savanna": "2025-03-13 20:17:36 +0000",
-      "byg:amaranth_fields": "2025-03-12 06:43:38 +0000"
+      "byg:amaranth_fields": "2025-03-12 06:43:38 +0000",
+      "byg:basalt_barrera": "2025-03-13 20:49:29 +0000"
     },
     "done": false
   },
@@ -2579,6 +2586,12 @@
   "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
       "has_template": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_pirate": {
+    "criteria": {
+      "advancement_pirate_0": "2025-03-13 20:52:11 +0000"
     },
     "done": true
   },
@@ -3462,6 +3475,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-13 20:55:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-03-13 20:31:23 +0000"
@@ -3559,9 +3578,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-13 20:55:51 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-03-13 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2025-03-13 20:52:11 +0000"
     },
     "done": true
   },
@@ -3870,6 +3901,7 @@
       "minecraft:forest": "2025-03-12 05:38:16 +0000",
       "minecraft:desert": "2025-03-12 06:48:39 +0000",
       "minecraft:jungle": "2025-03-12 06:28:38 +0000",
+      "minecraft:ocean": "2025-03-13 20:52:11 +0000",
       "minecraft:windswept_savanna": "2025-03-12 07:03:50 +0000",
       "minecraft:warm_ocean": "2025-03-12 06:51:28 +0000",
       "minecraft:savanna": "2025-03-13 20:14:19 +0000",

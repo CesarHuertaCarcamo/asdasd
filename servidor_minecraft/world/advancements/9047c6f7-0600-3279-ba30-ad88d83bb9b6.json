@@ -71,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-13 20:53:24 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/black_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:46:33 +0000"
@@ -341,9 +359,22 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:18 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000",
+      "has_the_recipe": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -527,6 +558,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-13 20:16:44 +0000"
@@ -590,6 +627,12 @@
   "exoticbirds:recipes/iron_birdcage": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -890,6 +933,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-12 05:54:00 +0000"
@@ -923,6 +972,12 @@
   "vinery:jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-03-13 01:10:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
     },
     "done": true
   },
@@ -1672,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-12 05:58:10 +0000"
@@ -1681,6 +1742,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-12 06:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-13 20:53:06 +0000"
     },
     "done": true
   },
@@ -1846,6 +1913,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/bamboo_item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-03-12 07:00:27 +0000"
@@ -1867,6 +1940,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-12 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
     },
     "done": true
   },
@@ -2427,6 +2506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-03-12 05:46:36 +0000"
@@ -2634,6 +2719,13 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
+    "criteria": {
+      "has_cod": "2025-03-13 20:53:13 +0000",
+      "has_the_recipe": "2025-03-13 20:53:13 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-12 05:53:57 +0000"
@@ -2755,6 +2847,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/glowstone_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:54 +0000"
@@ -2788,6 +2886,12 @@
   "securitycraft:recipes/securitycraft/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -2854,6 +2958,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-12 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:18 +0000"
     },
     "done": true
   },
@@ -3046,6 +3156,12 @@
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:18 +0000"
     },
     "done": true
   },
@@ -3449,6 +3565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-12 06:17:44 +0000"
@@ -3458,6 +3580,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-03-12 06:45:00 +0000",
+      "minecraft:witch": "2025-03-13 20:53:02 +0000",
       "minecraft:silverfish": "2025-03-12 06:29:42 +0000",
       "minecraft:zombie": "2025-03-12 06:44:43 +0000"
     },
@@ -3535,6 +3658,12 @@
     },
     "done": true
   },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-03-12 05:44:28 +0000"
@@ -3550,6 +3679,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-12 05:58:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
     },
     "done": true
   },
@@ -3679,6 +3814,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-13 20:57:58 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/acacia_birdcage": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
@@ -3722,6 +3863,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/crabbersdelight/pufferfish_barrel": {
+    "criteria": {
+      "has_cod": "2025-03-13 20:53:13 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-03-12 06:03:41 +0000"
@@ -3737,6 +3884,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-13 20:57:58 +0000"
     },
     "done": true
   },
@@ -3849,6 +4002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-13 20:53:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-03-13 01:10:52 +0000"
@@ -3858,6 +4017,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-13 20:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -3876,6 +4041,18 @@
   "exoticbirds:recipes/pink_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-13 20:53:14 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/purulent_tea": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-13 20:53:13 +0000"
     },
     "done": true
   },
@@ -4053,6 +4230,7 @@
       "minecraft:taiga": "2025-03-12 05:53:50 +0000",
       "minecraft:sunflower_plains": "2025-03-12 06:10:12 +0000",
       "minecraft:birch_forest": "2025-03-12 06:00:55 +0000",
+      "minecraft:windswept_hills": "2025-03-13 20:50:00 +0000",
       "minecraft:bamboo_jungle": "2025-03-12 06:28:49 +0000",
       "minecraft:wooded_badlands": "2025-03-12 06:45:12 +0000",
       "minecraft:badlands": "2025-03-12 06:44:50 +0000",
@@ -4127,6 +4305,12 @@
   "byg:recipes/byg.byg/blue_enchanted_bookshelf": {
     "criteria": {
       "has_planks": "2025-03-12 06:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
     },
     "done": true
   },
@@ -4375,6 +4559,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-13 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -4670,6 +4860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2025-03-12 06:20:44 +0000"
@@ -4733,6 +4929,12 @@
   "chiselsandbits:recipes/chiselsandbits/sealant": {
     "criteria": {
       "has_tag_a": "2025-03-12 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-03-13 20:51:40 +0000"
     },
     "done": true
   },
@@ -4842,6 +5044,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-12 06:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-13 20:53:18 +0000"
     },
     "done": true
   },
@@ -4984,6 +5192,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/firey_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 06:08:56 +0000"
@@ -5072,6 +5286,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-13 20:54:32 +0000"
     },
     "done": true
   },
@@ -5261,6 +5481,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2025-03-13 20:53:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/tool_box": {
     "criteria": {
       "has_item": "2025-03-13 01:12:58 +0000"
@@ -5288,6 +5514,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-12 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-03-13 20:53:18 +0000"
     },
     "done": true
   },
@@ -5330,6 +5562,12 @@
   "candlelight:recipes/oak_shelf": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-13 20:53:06 +0000"
     },
     "done": true
   },
@@ -5630,6 +5868,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2025-03-13 20:28:37 +0000",
+      "minecraft:tabby": "2025-03-13 20:53:39 +0000",
       "minecraft:ragdoll": "2025-03-13 20:28:29 +0000",
       "minecraft:british_shorthair": "2025-03-12 07:09:28 +0000"
     },

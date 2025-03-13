@@ -780,3 +780,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Mar2025 20:46:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
 [13Mar2025 20:47:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
 [13Mar2025 20:48:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:49:31.464] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:51:02.815] [Server thread/WARN] [com.projectvibrantjourneys.core.ProjectVibrantJourneys/]: WorldGenRegion is not being used to place features, instead it is: class net.minecraft.server.level.ServerLevel
+[13Mar2025 20:51:08.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iAmCamiii_: Teleported iAmCamiii_ to SuYT_05]
+[13Mar2025 20:51:15.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SuYT_05> encontramos otra aldea
+[13Mar2025 20:51:41.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <iAmCamiii_> hay un monton xd
+[13Mar2025 20:52:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:52:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 has made the advancement [Pirate]
+[13Mar2025 20:52:11.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 has made the advancement [Marine]
+[13Mar2025 20:52:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[13Mar2025 20:53:02.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/37644, l='ServerLevel[world]', x=-3148.70, y=64.50, z=4598.70] died: Witch was slain by SuYT_05
+[13Mar2025 20:53:06.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 has made the advancement [Spooky Scary Skeleton]
+[13Mar2025 20:55:23.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:56:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
+[13Mar2025 20:56:37.686] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3682, y=-40, z=5008}
+[13Mar2025 20:57:12.244] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 33, but a ship with this ShipId does not exist!
+[13Mar2025 20:57:36.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Teleported SuYT_05 to Melo_uwu246]
