@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-15 06:53:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:52 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-03-12 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-03-15 06:53:18 +0000"
     },
     "done": true
   },
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-15 06:53:18 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-03-12 05:52:54 +0000"
@@ -449,15 +467,15 @@
     },
     "done": true
   },
-  "beachparty:palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-13 21:28:40 +0000"
-    },
-    "done": true
-  },
   "byg:recipes/byg.byg/cherry_sign": {
     "criteria": {
       "has_planks": "2025-03-13 21:02:23 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-13 21:28:40 +0000"
     },
     "done": true
   },
@@ -818,6 +836,12 @@
   "exoticbirds:recipes/phoenix_egg_from_desert_phoenix": {
     "criteria": {
       "has_egg": "2025-03-12 05:38:15 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -1275,6 +1299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-15 06:53:18 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/crabbersdelight/surf_and_turf": {
     "criteria": {
       "has_baked_potato": "2025-03-13 20:25:39 +0000",
@@ -1663,6 +1693,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-03-13 20:25:39 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -2114,6 +2150,12 @@
   "byg:recipes/byg.byg/rainbow_eucalyptus_wood": {
     "criteria": {
       "has_log": "2025-03-13 21:18:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -2644,6 +2686,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2025-03-12 05:52:54 +0000"
@@ -2862,6 +2910,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-03-13 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-03-15 06:55:03 +0000"
     },
     "done": true
   },
@@ -3124,6 +3178,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-12 07:07:44 +0000"
@@ -3163,6 +3223,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-03-15 06:57:00 +0000"
     },
     "done": true
   },
@@ -3975,6 +4041,13 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/crabbersdelight/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-03-15 06:53:18 +0000",
+      "has_the_recipe": "2025-03-15 06:53:18 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2025-03-12 06:03:21 +0000"
@@ -4188,6 +4261,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -4521,6 +4600,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2025-03-13 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -4862,6 +4947,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-12 06:10:37 +0000",
@@ -4887,6 +4978,12 @@
   "exoticbirds:recipes/light_blue_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:47:57 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -5025,6 +5122,12 @@
   "tropicraft:recipes/tropicraft/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2025-03-13 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-03-15 06:57:00 +0000"
     },
     "done": true
   },
@@ -5607,6 +5710,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/oil_lantern": {
     "criteria": {
       "has_iron_nugget": "2025-03-12 06:26:46 +0000"
@@ -5628,6 +5737,12 @@
   "beachparty:beach_towel": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },
@@ -5871,6 +5986,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-03-15 06:53:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-13 21:28:40 +0000"
@@ -6036,6 +6157,12 @@
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-03-12 05:52:18 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-15 06:57:03 +0000"
     },
     "done": true
   },

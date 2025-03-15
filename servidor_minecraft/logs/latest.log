@@ -697,3 +697,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Mar2025 06:37:34.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
 [15Mar2025 06:37:34.855] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
 [15Mar2025 06:37:34.856] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[15Mar2025 06:38:13.243] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4118481b[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:53415) lost connection: Disconnected
+[15Mar2025 06:39:19.019] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302b50f4[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:52663) lost connection: Disconnected
+[15Mar2025 06:39:58.777] [Worker-Main-5/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[15Mar2025 06:40:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[15Mar2025 06:40:28.070] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3307, y=94, z=6774} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15Mar2025 06:40:28.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3307, y=94, z=6774}
+[15Mar2025 06:40:28.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3307, y=93, z=6774} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[15Mar2025 06:40:28.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-3307, y=93, z=6774}
+[15Mar2025 06:40:28.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3307, y=94, z=6772} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15Mar2025 06:40:28.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3307, y=94, z=6772}
+[15Mar2025 06:40:28.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3307, y=93, z=6772} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[15Mar2025 06:40:28.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-3307, y=93, z=6772}
+[15Mar2025 06:40:28.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3307, y=94, z=6773} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15Mar2025 06:40:28.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3307, y=94, z=6773}
+[15Mar2025 06:41:23.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuYT_05 lost connection: Disconnected
+[15Mar2025 06:41:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 left the game
+[15Mar2025 06:41:28.793] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4bf22f22
+[15Mar2025 06:41:28.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SuYT_05[/127.207.209.115:33903] logged in with entity id 35884 at (-3578.852099463167, 65.0, 4329.1952245849325)
+[15Mar2025 06:41:28.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SuYT_05
+[15Mar2025 06:41:28.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SuYT_05
+[15Mar2025 06:41:28.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SuYT_05
+[15Mar2025 06:41:28.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SuYT_05
+[15Mar2025 06:41:28.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SuYT_05
+[15Mar2025 06:41:28.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SuYT_05
+[15Mar2025 06:41:28.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SuYT_05
+[15Mar2025 06:41:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 joined the game
+[15Mar2025 06:42:07.828] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bbeae4b[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:47695) lost connection: Disconnected
+[15Mar2025 06:43:09.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuYT_05 lost connection: Disconnected
+[15Mar2025 06:43:09.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 left the game
+[15Mar2025 06:50:21.164] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a6f20ea
+[15Mar2025 06:50:21.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melo_uwu246[/127.206.92.90:46819] logged in with entity id 110251 at (-4692.029785408048, 64.0, 7676.508828233512)
+[15Mar2025 06:50:21.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Melo_uwu246
+[15Mar2025 06:50:21.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Melo_uwu246
+[15Mar2025 06:50:21.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Melo_uwu246
+[15Mar2025 06:50:21.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Melo_uwu246
+[15Mar2025 06:50:21.200] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Melo_uwu246
+[15Mar2025 06:50:21.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Melo_uwu246
+[15Mar2025 06:50:21.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Melo_uwu246
+[15Mar2025 06:50:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 joined the game
+[15Mar2025 06:51:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the time to 1000]
+[15Mar2025 06:51:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]
+[15Mar2025 06:56:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]

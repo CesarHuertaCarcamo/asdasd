@@ -475,9 +475,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_placard": {
+    "criteria": {
+      "has_dye": "2025-03-15 06:38:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-03-12 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-03-15 06:36:34 +0000"
     },
     "done": true
   },
@@ -556,6 +568,12 @@
   "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 06:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
     },
     "done": true
   },
@@ -646,6 +664,12 @@
   "nethersdelight:recipes/nethersdelight/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-03-12 06:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
     },
     "done": true
   },
@@ -892,6 +916,12 @@
   "byg:recipes/byg.byg/blue_enchanted_fence": {
     "criteria": {
       "has_planks": "2025-03-12 06:48:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-03-15 06:36:34 +0000"
     },
     "done": true
   },
@@ -1204,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-03-12 05:44:28 +0000",
@@ -1482,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
@@ -1593,6 +1635,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
     },
     "done": true
   },
@@ -2723,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-03-13 00:19:03 +0000"
@@ -2765,6 +2819,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-12 05:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
     },
     "done": true
   },
@@ -4190,6 +4250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-15 06:36:34 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2025-03-12 06:03:41 +0000"
@@ -4607,6 +4673,7 @@
       "minecraft:windswept_savanna": "2025-03-12 07:03:45 +0000",
       "minecraft:warm_ocean": "2025-03-12 06:51:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-12 06:01:49 +0000",
+      "minecraft:meadow": "2025-03-15 06:38:37 +0000",
       "minecraft:savanna": "2025-03-12 06:59:57 +0000",
       "minecraft:plains": "2025-03-12 06:04:25 +0000"
     },
@@ -4735,6 +4802,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-12 06:17:44 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/blue_decal": {
+    "criteria": {
+      "has_dye": "2025-03-15 06:38:46 +0000"
     },
     "done": true
   },
@@ -5320,6 +5393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-15 06:38:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-03-12 06:18:27 +0000"
@@ -5473,6 +5552,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2025-03-12 06:08:56 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/tnt_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-15 06:36:31 +0000"
     },
     "done": true
   },
@@ -5881,6 +5966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-15 06:36:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
@@ -6001,6 +6092,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-03-15 06:36:34 +0000"
+    },
+    "done": true
+  },
   "beachparty:beach_towel": {
     "criteria": {
       "has_white_wool": "2025-03-12 06:11:31 +0000"
@@ -6010,6 +6107,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-15 06:36:34 +0000"
     },
     "done": true
   },
@@ -6070,6 +6173,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-12 05:46:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-03-15 06:36:34 +0000"
     },
     "done": true
   },
