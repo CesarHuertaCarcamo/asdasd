@@ -775,3 +775,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Mar2025 07:14:33.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Melo_uwu246) moved wrongly! 0.438401451550817
 [15Mar2025 07:14:33.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Melo_uwu246) moved wrongly! 0.438401451550817
 [15Mar2025 07:14:33.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Melo_uwu246) moved wrongly! 0.438401451550817
+[15Mar2025 07:28:30.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Melo_uwu246 lost connection: Disconnected
+[15Mar2025 07:28:30.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melo_uwu246 left the game
