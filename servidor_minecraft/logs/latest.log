@@ -739,3 +739,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Mar2025 06:51:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the time to 1000]
 [15Mar2025 06:51:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]
 [15Mar2025 06:56:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]
+[15Mar2025 07:01:11.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the time to 1000]
+[15Mar2025 07:01:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the time to 1000]
+[15Mar2025 07:01:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]
+[15Mar2025 07:05:28.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140527, l='ServerLevel[world]', x=-3922.47, y=83.00, z=9000.39] died, message: 'Villager froze to death'
+[15Mar2025 07:06:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Melo_uwu246: Set the weather to clear]

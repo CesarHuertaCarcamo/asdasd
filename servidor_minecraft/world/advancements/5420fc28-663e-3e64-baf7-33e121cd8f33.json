@@ -2736,15 +2736,18 @@
       "byg:orchard": "2025-03-13 21:01:32 +0000",
       "byg:redwood_thicket": "2025-03-13 20:21:11 +0000",
       "byg:fragment_forest": "2025-03-12 06:41:11 +0000",
+      "byg:rose_fields": "2025-03-15 07:02:41 +0000",
       "byg:firecracker_shrubland": "2025-03-13 20:19:34 +0000",
       "byg:weeping_witch_forest": "2025-03-13 21:08:14 +0000",
       "byg:zelkova_forest": "2025-03-13 21:05:10 +0000",
       "byg:araucaria_savanna": "2025-03-13 20:44:30 +0000",
       "byg:crag_gardens": "2025-03-13 21:18:19 +0000",
+      "byg:aspen_forest": "2025-03-15 07:03:45 +0000",
       "byg:forgotten_forest": "2025-03-12 06:42:46 +0000",
       "byg:cherry_blossom_forest": "2025-03-13 21:01:15 +0000",
       "byg:baobab_savanna": "2025-03-13 20:17:36 +0000",
       "byg:amaranth_fields": "2025-03-12 06:43:38 +0000",
+      "byg:ebony_woods": "2025-03-15 07:01:14 +0000",
       "byg:basalt_barrera": "2025-03-13 20:49:29 +0000",
       "byg:temperate_rainforest": "2025-03-13 21:08:09 +0000"
     },
@@ -3787,6 +3790,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-15 06:58:29 +0000",
       "minecraft:skeleton": "2025-03-12 06:43:52 +0000",
       "minecraft:spider": "2025-03-13 21:01:18 +0000",
       "minecraft:zombie_villager": "2025-03-13 21:31:26 +0000"
@@ -4451,7 +4455,9 @@
       "minecraft:river": "2025-03-12 06:00:07 +0000",
       "minecraft:lukewarm_ocean": "2025-03-13 20:27:48 +0000",
       "minecraft:snowy_plains": "2025-03-12 05:57:28 +0000",
+      "minecraft:stony_shore": "2025-03-15 07:04:20 +0000",
       "minecraft:snowy_taiga": "2025-03-12 05:55:31 +0000",
+      "minecraft:grove": "2025-03-15 07:05:15 +0000",
       "minecraft:forest": "2025-03-12 05:38:16 +0000",
       "minecraft:desert": "2025-03-12 06:48:39 +0000",
       "minecraft:jungle": "2025-03-12 06:28:38 +0000",
@@ -4459,6 +4465,8 @@
       "minecraft:windswept_savanna": "2025-03-12 07:03:50 +0000",
       "minecraft:warm_ocean": "2025-03-12 06:51:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-13 21:33:51 +0000",
+      "minecraft:frozen_peaks": "2025-03-15 07:05:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-15 07:05:06 +0000",
       "minecraft:savanna": "2025-03-13 20:14:19 +0000",
       "minecraft:plains": "2025-03-12 06:22:22 +0000"
     },
@@ -5743,6 +5751,12 @@
   "byg:recipes/byg.byg/jacaranda_sign": {
     "criteria": {
       "has_planks": "2025-03-15 06:57:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-03-15 07:01:25 +0000"
     },
     "done": true
   },
