@@ -683,3 +683,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Mar2025 06:24:50.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66c411cb[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:58383) lost connection: Connection closed - mismatched mod channel list
 [15Mar2025 06:25:15.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [15Mar2025 06:26:09.560] [Worker-Main-6/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[15Mar2025 06:29:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[15Mar2025 06:29:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[15Mar2025 06:30:12.037] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [nitrogen_internals:main,aetherdelight:aetherdelight,aether:main,securitycraft:securitycraft] rejected their client side version number
+[15Mar2025 06:30:12.038] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 06:30:12.052] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@626f8b5d[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:51907) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 06:31:24.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 is bleeding. SuYT_05 was slain by Zotzpyre
+[15Mar2025 06:31:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 was slain by Zotzpyre
+[15Mar2025 06:35:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[15Mar2025 06:35:19.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[15Mar2025 06:37:34.148] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[15Mar2025 06:37:34.149] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[15Mar2025 06:37:34.150] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[15Mar2025 06:37:34.855] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[15Mar2025 06:37:34.856] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
