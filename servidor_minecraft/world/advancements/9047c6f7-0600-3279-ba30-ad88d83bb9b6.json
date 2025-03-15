@@ -47,16 +47,16 @@
     },
     "done": true
   },
+  "tropicraft:recipes/tropicraft/gray_beach_float": {
+    "criteria": {
+      "has_gray_wool": "2025-03-13 20:30:06 +0000"
+    },
+    "done": true
+  },
   "beachparty:beachpartybeach_hat": {
     "criteria": {
       "has_wheat": "2025-03-13 21:21:38 +0000",
       "has_the_recipe": "2025-03-13 21:21:38 +0000"
-    },
-    "done": true
-  },
-  "tropicraft:recipes/tropicraft/gray_beach_float": {
-    "criteria": {
-      "has_gray_wool": "2025-03-13 20:30:06 +0000"
     },
     "done": true
   },
@@ -4027,15 +4027,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-13 21:14:23 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_gold_block": "2025-03-13 20:29:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -6061,15 +6061,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-03-13 21:14:23 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/createdeco.metals/gold_sheet_metal_from_gold_block_stonecutting": {
     "criteria": {
       "has_gold_block": "2025-03-13 20:29:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-03-13 21:14:23 +0000"
     },
     "done": true
   },
@@ -6253,15 +6253,15 @@
     },
     "done": true
   },
-  "jmc:recipes/jmc.jmc_tab/golden_apple_cake_from_cake_oven": {
-    "criteria": {
-      "has_item": "2025-03-13 21:21:28 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_logs": "2025-03-13 21:14:23 +0000"
+    },
+    "done": true
+  },
+  "jmc:recipes/jmc.jmc_tab/golden_apple_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-13 21:21:28 +0000"
     },
     "done": true
   },
