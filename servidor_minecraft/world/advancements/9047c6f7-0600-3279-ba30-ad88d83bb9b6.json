@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-15 06:13:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-03-12 06:11:31 +0000"
@@ -1416,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-15 06:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-12 06:11:30 +0000"
@@ -1671,6 +1683,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-03-12 06:23:53 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-03-15 06:21:10 +0000"
     },
     "done": true
   },
@@ -2333,6 +2351,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/chocolate_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-15 06:18:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-12 06:52:27 +0000"
@@ -2855,6 +2879,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-15 06:21:10 +0000"
     },
     "done": true
   },
@@ -4305,6 +4335,12 @@
     },
     "done": true
   },
+  "jmc:recipes/jmc.jmc_tab/red_velvet_cake_from_cake_oven": {
+    "criteria": {
+      "has_item": "2025-03-15 06:18:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-13 20:38:29 +0000"
@@ -4350,6 +4386,12 @@
   "exoticbirds:recipes/pink_birdhouse": {
     "criteria": {
       "has_wood": "2025-03-12 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-15 06:16:17 +0000"
     },
     "done": true
   },
@@ -4416,6 +4458,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2025-03-12 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-03-15 06:21:10 +0000"
     },
     "done": true
   },
@@ -4642,6 +4690,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-15 06:18:21 +0000"
+    },
+    "done": true
+  },
   "jmc:recipes/jmc.jmc_tab/apple_cake_from_cake_oven": {
     "criteria": {
       "has_item": "2025-03-12 06:06:52 +0000"
@@ -4766,6 +4820,12 @@
   "meadow:recipes/wooden_cauldron": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-15 06:18:21 +0000"
     },
     "done": true
   },
@@ -4959,6 +5019,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-03-12 06:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-15 06:15:47 +0000"
     },
     "done": true
   },
@@ -5568,6 +5634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-15 06:21:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-03-13 21:05:45 +0000"
@@ -5863,6 +5935,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-15 06:16:17 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooly_bed": {
     "criteria": {
       "has_oak_planks": "2025-03-12 05:58:10 +0000"
@@ -6106,6 +6184,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 06:12:07 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-15 06:18:21 +0000"
     },
     "done": true
   },

@@ -650,3 +650,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Mar2025 06:12:08.208] [Server thread/INFO] [strawgolem/]: Loading strawgolem save data
 [15Mar2025 06:12:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 is bleeding. SuYT_05 was slain by Komodo Dragon
 [15Mar2025 06:12:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 was slain by Komodo Dragon
+[15Mar2025 06:17:12.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 is bleeding. SuYT_05 drowned
+[15Mar2025 06:17:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 drowned
+[15Mar2025 06:20:42.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SuYT_05 lost connection: Disconnected
+[15Mar2025 06:20:42.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 left the game
+[15Mar2025 06:20:47.218] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6893c5e9
+[15Mar2025 06:20:47.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SuYT_05[/127.207.209.115:39643] logged in with entity id 16357 at (-4495.2890124718815, 71.0, 5058.404527538528)
+[15Mar2025 06:20:47.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SuYT_05
+[15Mar2025 06:20:47.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SuYT_05
+[15Mar2025 06:20:47.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SuYT_05
+[15Mar2025 06:20:47.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SuYT_05
+[15Mar2025 06:20:47.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SuYT_05
+[15Mar2025 06:20:47.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SuYT_05
+[15Mar2025 06:20:47.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SuYT_05
+[15Mar2025 06:20:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SuYT_05 joined the game
+[15Mar2025 06:22:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the time to 1000]
+[15Mar2025 06:23:39.429] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [nitrogen_internals:main,aetherdelight:aetherdelight,aether:main,securitycraft:securitycraft] rejected their client side version number
+[15Mar2025 06:23:39.429] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 06:23:39.467] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fbb32d4[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:36695) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 06:24:30.413] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2631, y=150, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.414] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2631, y=150, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.414] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2633, y=150, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.414] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2632, y=151, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.414] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2632, y=151, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.415] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2630, y=150, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:30.415] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-165, 141], pos: MutableBlockPos{x=-2631, y=152, z=2256}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:39.487] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-169, 134], pos: MutableBlockPos{x=-2692, y=135, z=2144}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:39.487] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-169, 134], pos: MutableBlockPos{x=-2692, y=136, z=2144}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:large_emerald_vein]
+[15Mar2025 06:24:39.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SuYT_05: Set the weather to clear]
+[15Mar2025 06:24:50.105] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [nitrogen_internals:main,aetherdelight:aetherdelight,aether:main,securitycraft:securitycraft] rejected their client side version number
+[15Mar2025 06:24:50.105] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 06:24:50.110] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66c411cb[id=<null>,name=Melo_uwu246,properties={},legacy=false] (/127.206.92.90:58383) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 06:25:15.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[15Mar2025 06:26:09.560] [Worker-Main-6/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
