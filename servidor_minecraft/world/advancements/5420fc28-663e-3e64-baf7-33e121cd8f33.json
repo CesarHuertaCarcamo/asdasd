@@ -3373,6 +3373,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-03-15 07:17:32 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_stick": "2025-03-12 05:52:28 +0000"
@@ -3560,11 +3566,14 @@
       "old_growth_woodland": "2025-03-13 21:15:00 +0000",
       "field": "2025-03-12 05:58:34 +0000",
       "orchard": "2025-03-13 21:14:56 +0000",
+      "lavender_forest": "2025-03-15 07:16:43 +0000",
       "mediterranean_forest": "2025-03-13 20:12:33 +0000",
       "coniferous_forest": "2025-03-12 05:39:28 +0000",
       "wasteland": "2025-03-12 06:50:53 +0000",
       "lush_desert": "2025-03-12 07:00:34 +0000",
+      "redwood_forest": "2025-03-15 07:16:25 +0000",
       "cherry_blossom_grove": "2025-03-13 21:07:41 +0000",
+      "dune_beach": "2025-03-15 07:16:44 +0000",
       "lavender_field": "2025-03-13 20:38:16 +0000",
       "grassland": "2025-03-12 05:59:37 +0000",
       "rainforest": "2025-03-13 21:17:45 +0000",
@@ -4440,6 +4449,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-12 05:54:33 +0000",
+      "minecraft:deep_ocean": "2025-03-15 07:13:39 +0000",
       "minecraft:eroded_badlands": "2025-03-12 06:57:47 +0000",
       "minecraft:frozen_river": "2025-03-12 05:57:07 +0000",
       "minecraft:sunflower_plains": "2025-03-12 06:14:08 +0000",
@@ -5871,6 +5881,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-12 06:33:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-03-15 07:17:35 +0000"
     },
     "done": true
   },
